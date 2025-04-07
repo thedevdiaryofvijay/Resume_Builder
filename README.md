@@ -1,0 +1,19 @@
+# 📝 Resume Generator
+
+A full-stack web application to help users easily generate professional resumes. This project is split into two main parts:
+- **Client**: Built with React
+- **Server**: Built with Node.js and Express
+
+---
+
+## 🚀 Features
+
+- Interactive frontend for building resumes
+- Backend API for handling resume data
+- Option to export resume as PDF
+- Modular and scalable codebase
+
+---
+
+## 🗂️ Project Structure
+
