@@ -21,3 +21,8 @@ initlize the packages
 ```bash
 npm init
 ```
+start server using
+```bash
+cd server
+npm start
+```
