@@ -26,3 +26,9 @@ start server using
 cd server
 npm start
 ```
+start client using
+```bash
+cd client
+npm start
+```
+and fill all the details to create a resume
