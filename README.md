@@ -17,4 +17,7 @@ A full-stack web application to help users easily generate professional resumes.
 
 ## 🗂️ Project Structure
 Clone this repo using **<a href="https://github.com/thedevdiaryofvijay/Resume_Builder">https://github.com/thedevdiaryofvijay/Resume_Builder</a>**
-
+initlize the packages
+```bash
+npm init
+```
